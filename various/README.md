@@ -1,1 +1,1 @@
-Cartella contenente tutti i materiali ausiliari al lavoro non ricompresi nelle altre cartelle
+Immagini che documentano la ricerca di una soluzione per l'ngon presente alla base della bottiglia.

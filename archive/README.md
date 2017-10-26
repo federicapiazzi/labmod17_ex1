@@ -1,1 +1,1 @@
-Cartella contenente i materiali scartati o non più utili
+﻿Cartella contenente prove di rendering e file dei modelli usati per il rendering.
